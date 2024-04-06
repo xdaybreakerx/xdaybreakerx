@@ -14,7 +14,6 @@ About me:
 * ✉️  You can contact me at [hello@xandersalathe.com](mailto:hello@xandersalathe.com)
 * 🚀  I'm currently working on [a Finance Manager API](http://https://github.com/xdaybreakerx/XanderSalathe_T2A2)
 * 🧠  I'm learning the MERN stack @ [Coder Academy](https://coderacademy.edu.au/)
-* ⚡️ Secretly I'm 3/4 coffee by weight
 
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdaybreakerx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=250" />
