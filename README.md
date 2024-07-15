@@ -12,7 +12,7 @@ Current Genius @ Apple, and student @ Coder Academy.
 About me:
 * 😄 Pronouns: he/they
 * ✉️  You can contact me at [hello@xandersalathe.com](mailto:hello@xandersalathe.com)
-* 🚀  I'm currently working on [a Pokemon Team Generator](https://github.com/xdaybreakerx/pokemon-generator), [a JavaScript Dice Roller for TTRPGs](https://github.com/xdaybreakerx/js-d20), and a [Finance Manager API using Flask](http://https://github.com/xdaybreakerx/XanderSalathe_T2A2).
+* 🚀  I'm currently working on [a Pokemon Team Generator](https://github.com/xdaybreakerx/pokemon-generator), [a JavaScript Dice Roller for TTRPGs](https://github.com/xdaybreakerx/js-d20), and a [Finance Manager API using Flask](https://github.com/xdaybreakerx/XanderSalathe_T2A2).
 * 🧠  I'm learning the MERN stack @ [Coder Academy](https://coderacademy.edu.au/)
 * ⚡️ When I'm not coding you can probably find me playing Pokémon, or Baldurs Gate 3. 
 
