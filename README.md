@@ -12,34 +12,36 @@ Current Genius @ Apple, and student @ Coder Academy.
 About me:
 * 😄 Pronouns: he/they
 * ✉️  You can contact me at [hello@xandersalathe.com](mailto:hello@xandersalathe.com)
-* 🚀  I'm currently working on [a Pokemon Team Generator](https://github.com/xdaybreakerx/pokemon-generator), [a JavaScript Dice Roller for TTRPGs](https://github.com/xdaybreakerx/js-d20), and a [Finance Manager API using Flask](https://github.com/xdaybreakerx/XanderSalathe_T2A2).
+* 🚀  I've recently worked on a [computer vision project using YOLOv8](https://github.com/xdaybreakerx/computer-vision-with-yolov8), [a JavaScript Dice Roller for TTRPGs](https://github.com/xdaybreakerx/js-d20), and a [Finance Manager API using Flask](https://github.com/xdaybreakerx/XanderSalathe_T2A2).
 * 🧠  I'm learning the MERN stack @ [Coder Academy](https://coderacademy.edu.au/)
-* ⚡️ When I'm not coding you can probably find me playing Pokémon, or Baldurs Gate 3. 
-
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xdaybreakerx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=250" />
-</a> -->
+* ⚡️ When I'm not coding you can probably find me playing Pokémon, or drinking too much coffee (is there such a thing?). 
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-![Xander's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xdaybreakerx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![Xander's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xdaybreakerx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide=css,scss)
+
+
 
 ### <p align="left"> Languages and Tools </p>
-
-
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,tailwind,postgres,flask,vscode&perline=3" />
+  </a>
 </p>
-
-
-
 
 
 ### <p align="left"> Socials </p>
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/xdaybreakerx)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xander-salathe)
 
-<p align="left"> 
-<a href="https://www.github.com/xdaybreakerx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/xandersalathe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
+
+<!-- 
+this readme contains resources available from: 
+https://www.profileme.dev/create-profile 
+and
+https://github.com/tandpfun/skill-icons
+and 
+https://github.com/anuraghazra/github-readme-stats
+-->
