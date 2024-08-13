@@ -1,4 +1,4 @@
-# <p align="center">Hello World! 👋 My name is Xander Salathe </p>
+# <p align="center">Hello World! 👋 My name is Xander</p>
 
 
 ### <p align="center"> Junior Software Developer based in Naarm (Melbourne) </p>
@@ -10,9 +10,9 @@ Hey there! I'm a tech enthusiast with a knack for blending creativity and techno
 Current Genius @ Apple, and student @ Coder Academy.
 
 About me:
-* 😄 Pronouns: he/they
+* 😄 Pronouns: they/them
 * ✉️  You can contact me at [hello@xandersalathe.com](mailto:hello@xandersalathe.com)
-* 🚀  I've recently worked on a [computer vision project using YOLOv8](https://github.com/xdaybreakerx/computer-vision-with-yolov8), [a JavaScript Dice Roller for TTRPGs](https://github.com/xdaybreakerx/js-d20), and a [Finance Manager API using Flask](https://github.com/xdaybreakerx/XanderSalathe_T2A2).
+* 🚀  I've recently worked on a [computer vision project using YOLOv8 and python](https://github.com/xdaybreakerx/computer-vision-with-yolov8), [an Astro web platform to discover Australian Coffee Roasters](https://github.com/xdaybreakerx/beanfinder.coffee), and a [Finance Manager API using Flask](https://github.com/xdaybreakerx/XanderSalathe_T2A2).
 * 🧠  I'm learning the MERN stack @ [Coder Academy](https://coderacademy.edu.au/)
 * ⚡️ When I'm not coding you can probably find me playing Pokémon, or drinking too much coffee (is there such a thing?). 
 
