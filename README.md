@@ -36,10 +36,10 @@ Stats for nerds:
 </p> 
 -->
 
-
+<!-- 
 ### <p align="left"> Socials </p>
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/xdaybreakerx)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xander-salathe)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xander-salathe) -->
 
 
 <!-- 
