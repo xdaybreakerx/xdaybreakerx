@@ -14,7 +14,7 @@ You can find my [portfolio here.](https://xandersalathe.netlify.app/)
 About me:
 * 😄 Pronouns: they/them
 * ✉️  You can contact me at [hello@xandersalathe.com](mailto:hello@xandersalathe.com)
-* 🚀  I've recently worked on a [computer vision project using YOLOv8 and python](https://github.com/xdaybreakerx/computer-vision-with-yolov8), [an Astro web platform to discover Australian Coffee Roasters](https://github.com/xdaybreakerx/beanfinder.coffee), and a [React and Firebase study tool - QuizQuokka.](https://github.com/xdaybreakerx/quizquokka).
+* 🚀  I've recently worked on a [computer vision project using YOLOv8 and python](https://github.com/xdaybreakerx/computer-vision-with-yolov8), [an Astro web platform to discover Australian Coffee Roasters](https://github.com/xdaybreakerx/beanfinder.coffee), and a [React and Firebase study tool - QuizQuokka](https://github.com/xdaybreakerx/quizquokka).
 * 🧠  I'm learning the MERN stack @ [Coder Academy](https://coderacademy.edu.au/)
 * ⚡️ When I'm not coding you can probably find me playing Pokémon, or drinking too much coffee (is there such a thing?). 
 
