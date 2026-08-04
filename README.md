@@ -22,4 +22,5 @@
 - [email](mailto:hello@xandersalathe.com)
 - [LinkedIn](https://linkedin.com/in/xander-salathe)
 
-![loading...](dino.gif)
+<!-- easter egg 
+![loading...](dino.gif) -->
