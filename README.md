@@ -1,5 +1,4 @@
-# <p align="center">Hello World! 
-## 👋 My name is Xander (they/them)</p>
+# <p align="center">Hello World! 👋
 
 ### <p align="center">Software & Platform Engineer based in Naarm (Melbourne)</p>
 
@@ -22,6 +21,5 @@
 - [portfolio](https://xandersalathe.com/)
 - [email](mailto:hello@xandersalathe.com)
 - [LinkedIn](https://linkedin.com/in/xander-salathe)
-
 
 ![loading...](dino.gif)
